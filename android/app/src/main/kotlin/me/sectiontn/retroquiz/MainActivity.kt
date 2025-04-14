@@ -1,4 +1,4 @@
-package com.example.retroquiz
+package me.sectiontn.retroquiz
 
 import io.flutter.embedding.android.FlutterActivity
 
